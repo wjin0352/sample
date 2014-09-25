@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0f1194e-10c7-40af-8a07-f8e8180df746" name="Default" comment="" />
+    <list default="true" id="d0f1194e-10c7-40af-8a07-f8e8180df746" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wkclass.1.rb" afterPath="$PROJECT_DIR$/wkclass.1.rb" />
+    </list>
     <ignored path="sample.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/sample@wkclass_1.coverage" NAME="wkclass.1 Coverage Results" MODIFIED="1411680361185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample" />
+    <SUITE FILE_PATH="coverage/sample@wkclass_1.coverage" NAME="wkclass.1 Coverage Results" MODIFIED="1411680866187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -39,8 +41,8 @@
       <file leaf-file-name="wkclass.1.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wkclass.1.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53243846" vertical-offset="1225" max-vertical-offset="1672">
-              <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.74496645" vertical-offset="1225" max-vertical-offset="1691">
+              <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -239,8 +241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wkclass.1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53243846" vertical-offset="1225" max-vertical-offset="1672">
-          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.74496645" vertical-offset="1225" max-vertical-offset="1691">
+          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
           <folding />
         </state>
       </provider>
