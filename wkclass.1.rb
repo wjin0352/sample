@@ -25,6 +25,7 @@ end
 # 5) Create 2 objects of type Person
 person1 = Person.new("Jim","Smith","new york")
 person2 = Person.new("Mason", "King", "LA")
+person5 = Person.new("Larry", "Adames", "Queens baby!")
 
 # 6) print city for both person1 and 2
 puts person1.city
@@ -33,12 +34,14 @@ puts person2.city
 # 8) Create 2 objects of type Car
 car1 = Car.new("Telsa","Model S", "2013")
 car2 = Car.new("Nissan","Leaf","2012")
+car4 = Car.new("BMW", "i8", "2015")
 
 # 9) Add Jim Smith as the owner of the Tesla, to do this we = person1 to
 #  car1.currentOwner
 car1.currentOwner = person1
 # 10) Add Mason King as the owner of the Nissan, same as above
 car2.currentOwner = person2
+car4.currentOwner = person5
 
 #  11) Print Company, model, year and owner name for both cars
 puts car1.company
