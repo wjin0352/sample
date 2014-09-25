@@ -74,7 +74,6 @@ puts person4.lastname
 puts person4.city
 puts car1.currentOwner.firstname
 
-
 # Git 1st project
 car3 = Car.new("Toyota","Prius", 2012)
 puts car3.model
