@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d0f1194e-10c7-40af-8a07-f8e8180df746" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wkclass.1.rb" afterPath="$PROJECT_DIR$/wkclass.1.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +42,8 @@
       <file leaf-file-name="wkclass.1.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wkclass.1.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74496645" vertical-offset="1225" max-vertical-offset="1691">
-              <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.7024608" vertical-offset="1244" max-vertical-offset="1691">
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -241,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wkclass.1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74496645" vertical-offset="1225" max-vertical-offset="1691">
-          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.7024608" vertical-offset="1244" max-vertical-offset="1691">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
           <folding />
         </state>
       </provider>
