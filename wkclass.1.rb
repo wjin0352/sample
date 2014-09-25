@@ -88,3 +88,7 @@ puts car3.year
 #
 person1 = Person.new("David","H","new york")
 puts person1.firstname
+
+car4 = Car.new("Ford", "Mustang", 1998)
+puts car4.model
+puts car4.year
