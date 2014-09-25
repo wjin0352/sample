@@ -74,19 +74,9 @@ puts person4.lastname
 puts person4.city
 puts car1.currentOwner.firstname
 
-
-<<<<<<< HEAD
-
-
-
-
-
 puts "This is isaac"
-=======
-# Git 1st project
+
+
 car3 = Car.new("Toyota","Prius", 2012)
 puts car3.model
 puts car3.year
-
-#This better pay off man! 
->>>>>>> 6792f63c3f19d31f8b41191b323e37f358b54f35
